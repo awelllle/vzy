@@ -25,6 +25,8 @@ https://vzy-u6g6.onrender.com/register
 ### URL
 https://vzy-u6g6.onrender.com/updateUser
 
+### Header: Bearer (Authorization with token from)
+
 ### Sample Payload
 ```
 {
