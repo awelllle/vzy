@@ -40,4 +40,4 @@ https://vzy-u6g6.onrender.com/updateUser
 ### URL
 https://vzy-u6g6.onrender.com/for/alerts/from/stripe
 
-### This endpoint might not work because there is no Stripe secret and signature. However, during a successful payment event the code would update the status in the user table accordingly
+This endpoint might not work because there is no Stripe secret and signature. However, during a successful payment event the code would update the status in the user table accordingly
